@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @alexmarincu
+- 👀 I’m a software developer with professional experience in embedded systems (mostly C) and some experience in developing Android apps (Kotlin)
