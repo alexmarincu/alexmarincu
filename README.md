@@ -1,8 +1,8 @@
 # Hi 👋, I'm Alex
 
-### A software developer with professional experience in embedded systems (mostly C) and some experience in developing Android apps (Kotlin).
+### A software developer with professional experience in embedded systems (C programming) and personal experience in developing Android apps (Kotlin).
 
-- 🔭 I’m currently working on [Cbject](https://github.com/alexmarincu/Cbject) and an Android Mobile App for managing personal finances.
+- 🔭 I’m currently working on [Cbject](https://github.com/alexmarincu/Cbject) (an OOP framework for C) and on an Android Mobile App for managing personal finances.
 
 - 👨‍💻 You can see some of my work at [https://swdevstudio.com/projects/](https://swdevstudio.com/projects/)
 
