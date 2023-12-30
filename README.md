@@ -1,8 +1,8 @@
-# Hi 👋, I'm Alex
+# 👋 Hi, I'm Alex
 
 I'm a software developer with professional experience in embedded systems (C programming) and personal experience in developing Android apps (Kotlin). Currently I'm learning desktop and web app development with Python.
 
-## 🌟 Favorite Languages and Tools
+## 🌟 Favorite languages and tools
 
 ![Static Badge](https://img.shields.io/badge/c-blue?style=for-the-badge&logo=c&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/kotlin-%23058BC5?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -15,11 +15,9 @@ I'm a software developer with professional experience in embedded systems (C pro
 
 ## 👨‍💻 Some of my projects
 
-**[Cbject](https://github.com/alexmarincu/Cbject)**
+[![Cbject](https://github-readme-stats.vercel.app/api/pin/?username=alexmarincu&repo=cbject&theme=github_dark_dimmed)](https://github.com/alexmarincu/Cbject)
 
-**[Hacker Calculator](https://github.com/alexmarincu/hacker-calculator)**
-
-[https://swdevstudio.com/projects/](https://swdevstudio.com/projects/)
+[![Hacker Calculator](https://github-readme-stats.vercel.app/api/pin/?username=alexmarincu&repo=hacker-calculator&theme=github_dark_dimmed)](https://github.com/alexmarincu/hacker-calculator)
 
 ## You can help me by sponsoring
 
