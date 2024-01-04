@@ -13,11 +13,12 @@ I'm a software developer with professional experience in embedded systems (C pro
 ![Static Badge](https://img.shields.io/badge/vscode-%23026EC1?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/android-%2331b76d?style=for-the-badge&logo=android&logoColor=white)
 
-## 👨‍💻 Some of my projects
+## 👨‍💻 Featured repos
 
 [![Cbject](https://github-readme-stats.vercel.app/api/pin/?username=alexmarincu&repo=cbject&theme=github_dark_dimmed)](https://github.com/alexmarincu/Cbject)
-
 [![Hacker Calculator](https://github-readme-stats.vercel.app/api/pin/?username=alexmarincu&repo=hacker-calculator&theme=github_dark_dimmed)](https://github.com/alexmarincu/hacker-calculator)
+[![Tiva Playground](https://github-readme-stats.vercel.app/api/pin/?username=alexmarincu&repo=tiva-playground&theme=github_dark_dimmed)](https://github.com/alexmarincu/tiva-playground)
+[![Resume](https://github-readme-stats.vercel.app/api/pin/?username=alexmarincu&repo=resume&theme=github_dark_dimmed)](https://github.com/alexmarincu/resume)
 
 ## You can help me by sponsoring
 
