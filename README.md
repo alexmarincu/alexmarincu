@@ -16,8 +16,10 @@ I'm a software developer with professional experience in embedded systems (C pro
 ## 👨‍💻 Featured repos
 
 [![Cbject](https://github-readme-stats.vercel.app/api/pin/?username=alexmarincu&repo=cbject&theme=github_dark_dimmed)](https://github.com/alexmarincu/Cbject)
-[![Hacker Calculator](https://github-readme-stats.vercel.app/api/pin/?username=alexmarincu&repo=hacker-calculator&theme=github_dark_dimmed)](https://github.com/alexmarincu/hacker-calculator)
+[![Very Simple Kernel](https://github-readme-stats.vercel.app/api/pin/?username=alexmarincu&repo=very-simple-kernel&theme=github_dark_dimmed)](https://github.com/alexmarincu/very-simple-kernel)
+[![C Tool Box](https://github-readme-stats.vercel.app/api/pin/?username=alexmarincu&repo=c-tool-box&theme=github_dark_dimmed)](https://github.com/alexmarincu/c-tool-box)
 [![Tiva Playground](https://github-readme-stats.vercel.app/api/pin/?username=alexmarincu&repo=tiva-playground&theme=github_dark_dimmed)](https://github.com/alexmarincu/tiva-playground)
+[![Hacker Calculator](https://github-readme-stats.vercel.app/api/pin/?username=alexmarincu&repo=hacker-calculator&theme=github_dark_dimmed)](https://github.com/alexmarincu/hacker-calculator)
 [![Resume](https://github-readme-stats.vercel.app/api/pin/?username=alexmarincu&repo=resume&theme=github_dark_dimmed)](https://github.com/alexmarincu/resume)
 
 ## You can help me by sponsoring
