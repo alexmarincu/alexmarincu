@@ -12,15 +12,20 @@ I'm a software developer with professional experience in embedded systems (C pro
 ![Static Badge](https://img.shields.io/badge/linux-%2327272A?style=for-the-badge&logo=linux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/vscode-%23026EC1?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/android-%2331b76d?style=for-the-badge&logo=android&logoColor=white)
+![Static Badge](https://img.shields.io/badge/gemini-%238E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Static Badge](https://img.shields.io/badge/kilocode-%23FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+![Static Badge](https://img.shields.io/badge/openrouter-%23611AD1?style=for-the-badge&logo=openrouter&logoColor=white)
 
 ## 👨‍💻 Featured repos
 
-[![Cbject](https://github-readme-stats.vercel.app/api/pin/?username=alexmarincu&repo=cbject&theme=github_dark_dimmed)](https://github.com/alexmarincu/Cbject)
-[![Very Simple Kernel](https://github-readme-stats.vercel.app/api/pin/?username=alexmarincu&repo=very-simple-kernel&theme=github_dark_dimmed)](https://github.com/alexmarincu/very-simple-kernel)
-[![C Tool Box](https://github-readme-stats.vercel.app/api/pin/?username=alexmarincu&repo=c-tool-box&theme=github_dark_dimmed)](https://github.com/alexmarincu/c-tool-box)
-[![Tiva Playground](https://github-readme-stats.vercel.app/api/pin/?username=alexmarincu&repo=tiva-playground&theme=github_dark_dimmed)](https://github.com/alexmarincu/tiva-playground)
-[![Hacker Calculator](https://github-readme-stats.vercel.app/api/pin/?username=alexmarincu&repo=hacker-calculator&theme=github_dark_dimmed)](https://github.com/alexmarincu/hacker-calculator)
-[![Resume](https://github-readme-stats.vercel.app/api/pin/?username=alexmarincu&repo=resume&theme=github_dark_dimmed)](https://github.com/alexmarincu/resume)
+| Repository | Description | Stars | Forks |
+| :--- | :--- | :---: | :---: |
+| [**Cbject**](https://github.com/alexmarincu/Cbject) | OOP framework for standard C99 | ![Stars](https://img.shields.io/github/stars/alexmarincu/cbject?style=flat-square&labelColor=343b41&color=blue&logo=github) | ![Forks](https://img.shields.io/github/forks/alexmarincu/cbject?style=flat-square&labelColor=343b41&color=blue&logo=github) |
+| [**very-simple-kernel**](https://github.com/alexmarincu/very-simple-kernel) | A non-preemptive, run to completion, event driven kernel | ![Stars](https://img.shields.io/github/stars/alexmarincu/very-simple-kernel?style=flat-square&labelColor=343b41&color=blue&logo=github) | ![Forks](https://img.shields.io/github/forks/alexmarincu/very-simple-kernel?style=flat-square&labelColor=343b41&color=blue&logo=github) |
+| [**c-tool-box**](https://github.com/alexmarincu/c-tool-box) | Various C utility tools | ![Stars](https://img.shields.io/github/stars/alexmarincu/c-tool-box?style=flat-square&labelColor=343b41&color=blue&logo=github) | ![Forks](https://img.shields.io/github/forks/alexmarincu/c-tool-box?style=flat-square&labelColor=343b41&color=blue&logo=github) |
+| [**tiva-playground**](https://github.com/alexmarincu/tiva-playground) | A playground for Texas Instruments Tiva C Series LaunchPad | ![Stars](https://img.shields.io/github/stars/alexmarincu/tiva-playground?style=flat-square&labelColor=343b41&color=blue&logo=github) | ![Forks](https://img.shields.io/github/forks/alexmarincu/tiva-playground?style=flat-square&labelColor=343b41&color=blue&logo=github) |
+| [**hacker-calculator**](https://github.com/alexmarincu/hacker-calculator) | A calculator that evaluates expressions with hex/binary representations | ![Stars](https://img.shields.io/github/stars/alexmarincu/hacker-calculator?style=flat-square&labelColor=343b41&color=blue&logo=github) | ![Forks](https://img.shields.io/github/forks/alexmarincu/hacker-calculator?style=flat-square&labelColor=343b41&color=blue&logo=github) |
+| [**resume**](https://github.com/alexmarincu/resume) | My resume in AsciiDoc format | ![Stars](https://img.shields.io/github/stars/alexmarincu/resume?style=flat-square&labelColor=343b41&color=blue&logo=github) | ![Forks](https://img.shields.io/github/forks/alexmarincu/resume?style=flat-square&labelColor=343b41&color=blue&logo=github) |
 
 ## You can help me by sponsoring
 
